@@ -2,7 +2,8 @@ site_name: Nekodocs
 theme:
   name: material
   palette:
-    accent: cyan
+    primary: cyan
+    accent: indigo
   features:
     - navigation.tabs
     - navigation.tracking
