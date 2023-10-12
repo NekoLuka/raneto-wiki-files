@@ -1,2 +1,3 @@
 site_name: Nekodocs
-theme: ivory
+theme:
+  name: material
