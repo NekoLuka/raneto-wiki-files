@@ -9,12 +9,22 @@ nav:
       - "Fix migrations": C#/dotnet/fix-manual-migrations.md
   - Docker: 
     - Swarm:
-      - Dns: dns.md
-      - Volumes: volumes.md
-    - "API Connection": api-connection.md
-    - "API Docs": api-docs.md
+      - Dns: docker/swarm/dns.md
+      - Volumes: docker/swarm/volumes.md
+    - "API Connection": docker/api-connection.md
+    - "API Docs": docker/api-docs.md
   - Go:
-    - "Connect to docker API": connect-to-docker-api.md
-    - "Format strings with fmt": format-strings-with-fmt.md
-    - "Readers": readers.md
-  
+    - "Connect to docker API": go/connect-to-docker-api.md
+    - "Format strings with fmt": go/format-strings-with-fmt.md
+    - "Readers": go/readers.md
+  - "Google cloud":
+    - "Cloud storage":
+      - "Tips for signed urls": "google-cloud/cloud-storage/signed-urls.md"
+  - NodeJS:
+    - NestJS:
+      - "Inject repository example": node/nest/inject-repositories.md
+  - Proxmox:
+    - "Install r8168 network driver": proxmox/install-r8168-driver.md
+  - YML:
+    - Anchors: yml/anchors.md
+    - Cheatsheet: yml/cheatsheet.md

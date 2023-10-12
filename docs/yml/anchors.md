@@ -1,7 +1,3 @@
----
-Title: YAML anchors for reusable snippets
----
-
 ## YAML anchors for reusable snippets
 
 YAML anchors are a way to create reusable snipptes.
