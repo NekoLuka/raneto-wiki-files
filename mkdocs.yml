@@ -13,6 +13,7 @@ nav:
       - Volumes: docker/swarm/volumes.md
     - "API Connection": docker/api-connection.md
     - "API Docs": docker/api-docs.md
+    - "Compose file docs": docker/compose-file-docs.md
   - Go:
     - "Connect to docker API": go/connect-to-docker-api.md
     - "Format strings with fmt": go/format-strings-with-fmt.md
