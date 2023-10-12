@@ -1,7 +1,3 @@
----
-Title: Tips for signed URL's
----
-
 ## Tips for signed URL's
 
 - Don't supply any Mime types to the signing function (makes your live a lot easier)

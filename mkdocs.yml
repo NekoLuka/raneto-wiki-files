@@ -1,3 +1,5 @@
 site_name: Nekodocs
 theme:
   name: material
+nav:
+  - Home: index.md
