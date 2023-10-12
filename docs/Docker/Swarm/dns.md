@@ -1,7 +1,3 @@
----
-Title: How DNS works in swarm mode
----
-
 ## How DNS works in swarm mode
 
 DNS inside of the container overlay network is quite simple.

@@ -4,3 +4,17 @@ theme:
 nav:
   - Home: index.md
   - Cheatsheets: cheatsheets.md
+  - C#:
+    - dotnet: 
+      - "Fix migrations": C#/dotnet/fix-manual-migrations.md
+  - Docker: 
+    - Swarm:
+      - Dns: dns.md
+      - Volumes: volumes.md
+    - "API Connection": api-connection.md
+    - "API Docs": api-docs.md
+  - Go:
+    - "Connect to docker API": connect-to-docker-api.md
+    - "Format strings with fmt": format-strings-with-fmt.md
+    - "Readers": readers.md
+  

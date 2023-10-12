@@ -1,7 +1,3 @@
----
-Title: How volumes work in swarm mode
----
-
 ## How volumes work in swarm mode
 
 When you have multiple services with a volume, all services use the same

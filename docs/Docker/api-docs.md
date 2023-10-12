@@ -1,7 +1,3 @@
----
-Title: Docker API refrence
----
-
 ## Location of the docker API refrence
 
 Location: https://docs.docker.com/engine/api/v1.40/  

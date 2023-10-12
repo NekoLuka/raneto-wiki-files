@@ -1,8 +1,3 @@
----
-Title: Where is the docker API socket
-Description: Where is the docker API socket
----
-
 ## Where is the docker API socket located
 
 The docker Unix socket is located at `/var/run/docker.sock`.
