@@ -16,7 +16,7 @@ nav:
   - Go:
     - "Connect to docker API": go/connect-to-docker-api.md
     - "Format strings with fmt": go/format-strings-with-fmt.md
-    - "Readers": go/readers.md
+    - Readers: go/readers.md
   - "Google cloud":
     - "Cloud storage":
       - "Tips for signed urls": "google-cloud/cloud-storage/signed-urls.md"
