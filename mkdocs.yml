@@ -10,9 +10,17 @@ theme:
 nav:
   - Home: index.md
   - Cheatsheets: cheatsheets.md
-  - C#:
-    - dotnet: 
-      - "Fix migrations": C#/dotnet/fix-manual-migrations.md
+  - Programming:
+    - C#:
+      - dotnet: 
+        - "Fix migrations": programming/C#/dotnet/fix-manual-migrations.md
+    - Go:
+      - "Connect to docker API": programming/go/connect-to-docker-api.md
+      - "Format strings with fmt": programming/go/format-strings-with-fmt.md
+      - Readers: programming/go/readers.md
+    - NodeJS:
+      - NestJS:
+        - "Inject repository example": programming/node/nest/inject-repositories.md
   - Docker: 
     - Swarm:
       - Dns: docker/swarm/dns.md
@@ -20,16 +28,12 @@ nav:
     - "API Connection": docker/api-connection.md
     - "API Docs": docker/api-docs.md
     - "Compose file docs": docker/compose-file-docs.md
-  - Go:
-    - "Connect to docker API": go/connect-to-docker-api.md
-    - "Format strings with fmt": go/format-strings-with-fmt.md
-    - Readers: go/readers.md
+  - DB:
+    - Postgres:
+      - Guidelines: "db/postgres/general.md"
   - "Google cloud":
     - "Cloud storage":
       - "Tips for signed urls": "google-cloud/cloud-storage/signed-urls.md"
-  - NodeJS:
-    - NestJS:
-      - "Inject repository example": node/nest/inject-repositories.md
   - Proxmox:
     - "Install r8168 network driver": proxmox/install-r8168-driver.md
   - YML:
