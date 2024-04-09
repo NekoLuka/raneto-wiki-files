@@ -36,6 +36,9 @@ nav:
       - Guidelines: "db/postgres/general.md"
     - Sqlite:
       - Python: db/sqlite/python.md
+  - "UI design":
+    - Colors:
+      - Links: ui-design/color/links.md
   - "Google cloud":
     - "Cloud storage":
       - "Tips for signed urls": "google-cloud/cloud-storage/signed-urls.md"
