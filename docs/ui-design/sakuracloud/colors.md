@@ -2,5 +2,5 @@
 Title: All colors to use when creating a sakuracloud site
 ---
 
-## Branding color + tints
-![Branding colors](/img/brand-color.png)
+## Base palette
+![Base palette](/img/sakuracloud-color/base-palette.png)
