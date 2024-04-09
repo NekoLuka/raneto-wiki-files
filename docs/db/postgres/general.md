@@ -3,7 +3,32 @@ Title: General guidelines for DB objects
 ---
 
 ## Plpgsql functions and procedures
+### Recommended clean code rules
 1. Parameters have an p_ prefix and declared variables have an lv_ prefix so that it is easy to see what comes from where.
+
+### General plpgsql structure
+Procedure:
+```sql
+create [or replace] procedure procedure_name(parameter_list)
+language plpgsql
+as $$
+declare
+-- variable declaration
+begin
+-- stored procedure body
+end; $$
+```
+Functions:
+```sql
+create [or replace] function function_name(parameter_list)
+language plpgsql
+as $$
+declare
+-- variable declaration
+begin
+-- stored function body
+end; $$
+```
 
 ## Handy links
 - [Types of privileges](https://www.postgresql.org/docs/current/ddl-priv.html)
