@@ -21,6 +21,9 @@ nav:
     - NodeJS:
       - NestJS:
         - "Inject repository example": programming/node/nest/inject-repositories.md
+    - Python
+      - Snippets: programming/python/snippets.md
+      - "File objects": programming/python/fileobjects.md
   - Docker: 
     - Swarm:
       - Dns: docker/swarm/dns.md
