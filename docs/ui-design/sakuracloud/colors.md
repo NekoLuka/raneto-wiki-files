@@ -6,4 +6,5 @@ Title: All colors to use when creating a sakuracloud site
 ![Base palette](/img/sakuracloud-colors/base-palette.png)
 
 ## Tinted base palette
-![Base palette](/img/sakuracloud-colors/color-palette-tinted.png)
+![Tinted base palette](/img/sakuracloud-colors/color-palette-tinted.png)  
+[DrawIO file](/files/color-palette-tinted.drawio)
