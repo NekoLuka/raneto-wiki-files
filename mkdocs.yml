@@ -33,6 +33,7 @@ nav:
     - "API Connection": docker/api-connection.md
     - "API Docs": docker/api-docs.md
     - "Compose file docs": docker/compose-file-docs.md
+    - "Quick install": docker/quick-install.md
   - DB:
     - Postgres:
       - Guidelines: "db/postgres/general.md"
