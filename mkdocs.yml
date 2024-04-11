@@ -2,6 +2,7 @@ site_name: Nekodocs
 theme:
   name: material
   palette:
+    scheme: slate
     primary: cyan
     accent: indigo
   features:
