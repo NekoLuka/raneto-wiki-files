@@ -18,3 +18,6 @@ Title: Week recipes
 ## Pokebowl
 Rijst met schnitzel er boven op, getopt met tonkatsu saus.
 Met een frisse daikon wortel salade
+
+## Knoflookspaghetti
+Spaghetti met knoflookolie, ui en wortel
