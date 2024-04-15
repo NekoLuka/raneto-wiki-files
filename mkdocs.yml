@@ -53,3 +53,5 @@ nav:
     - "Install r8168 network driver": proxmox/install-r8168-driver.md
   - CLI:
     - "SSH tips and tricks": cli/ssh.md
+  - Ideas:
+    - "JWT cert manager": ideas/jwt-cert-manager.md
