@@ -1,0 +1,11 @@
+---
+Title: VPN proxy
+---
+
+# VPN proxy
+A tunnel to proxy your VPN traffic to your homelab without either exposing your public IP or relying on mesh networks.
+This is a simple system where you deploy the server on a VPS and the client in your homelab. 
+The client is also your wireguard server, so your traffic is always unreadable for the server.
+
+## Technical implementation
+Deploy FRPS on the VPS, FRPC on the homelab as well as a wireguard server
