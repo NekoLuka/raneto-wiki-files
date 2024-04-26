@@ -10,7 +10,6 @@ theme:
     - navigation.tracking
 nav:
   - Home: index.md
-  - Recipes: recipes.md
   - Cheatsheets: cheatsheets.md
   - Programming:
     - C#:
