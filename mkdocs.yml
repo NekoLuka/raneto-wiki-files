@@ -45,6 +45,7 @@ nav:
       - Links: ui-design/color/links.md
     - SakuraCloud:
       - Colors: ui-design/sakuracloud/colors.md
+      - Tools: ui-design/sakuracloud/tools.md
   - "Google cloud":
     - "Cloud storage":
       - "Tips for signed urls": "google-cloud/cloud-storage/signed-urls.md"
