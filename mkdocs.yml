@@ -51,7 +51,7 @@ nav:
       - "Tips for signed urls": "google-cloud/cloud-storage/signed-urls.md"
   - Proxmox:
     - "Install r8168 network driver": proxmox/install-r8168-driver.md
-    - "GPU passthrough": proxmox/install-r8168-driver.md
+    - "GPU passthrough": proxmox/gpu-passthrough.md
   - CLI:
     - "SSH tips and tricks": cli/ssh.md
   - Ideas:
